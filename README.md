@@ -4,32 +4,17 @@ Welcome to the Gitcoin GR11 hackathon. We are excited to join you in pushing the
 
 ## About Fluence
 
-Fluence provides the infrastructure and tools to enable decentralized compute for applications and backends on peer-to-peer networks. Nodes in the the Fluence peer-to-peer network host content-addressable services comprised of WebAssembly Interface Types (IT) modules. Aqua, Fluence's purpose-built distribute systems programming language, allows developers to seamlessly program distributed networks and compose hosted services into decentralized applications.  As as result, the Fluence platform allows you to bring peer-to-peer compute to a variety of Web3 use cases including data storage, blockchains, identity and to develop custom hosted services and workflows using the Fluence stack.
+Fluence provides the infrastructure and tools to enable decentralized compute for applications and backends on peer-to-peer networks. Nodes in the the Fluence peer-to-peer network host content-addressable services comprised of WebAssembly Interface Types (IT) modules. Aqua, Fluence's purpose-built distribute systems programming language, allows developers to seamlessly program distributed networks and compose hosted services into decentralized applications. As as result, the Fluence platform allows you to bring peer-to-peer compute to a variety of Web3 use cases including data storage, blockchains, identity and to develop custom hosted services and workflows using the Fluence stack.
 
 ## The Prizes
 
-Fluence provides named prizes in the following categories:
+Fluence provides named prizes of $500 each for up to three best and unique submissions for each of the following categories:
 
-### USD 2,500 Best use of Fluence compute for your dApp
+* Write a tutorial on a use case of your choosing on how to integrate Fluence and Aqua with one or more of IPFS, Ceramic or Textile. The tutorial should be ready for Medium publication and the associated code should be provided in a Github or Gitlab repo with MIT/Apache 2.0 license. For example, you could use Fluence to create NFTs on one or more protocols and Aqua to compose the workflow over Fluence compute and (mutable) decentrazlied storage.
 
-Examples in this category include
+* Write a tutorial on a use case of your choosing that shows how to use [IPLD](https://ipld.io/) with Fluence and Aqua with one or more of Bitcoin, Ethereum, Polkadot or Avalanche. The tutorial should be ready for Medium publication and the associated code should be provided in a Github or Gitlab repo with MIT/Apache 2.0 license. For example, you could use Fluence and Aqua to index and search IPFS hosted blogs and websites.
 
-* Use Fluence to power a decentralized NFT creation and storage solution using, for examples, NFT.storage. We are especially excited about using Fluence compute to dynamically update the metadata of mutable NFTs.
-* Use Fluence to create a multi source DEX price oracle. We see Fluence compute at the "decenter" of querying and processing of streams to facilitate the optimal computation of buy/sell orders and routing to DExs.
-* Use Fluence to capture, process and index events across multiple EVMs, e.g., Ethereum L1 and L2, Avalanche, Moonriver, etc., for a (common) contract and store the results on Ceramic or Textile. Not unlike optimal order processing and routing, we see a need for a decentralized compute solution to make real-time transaction routing decisions for a contract available, or to me made available, across EVM providers.
-
-### USD 2,500 Best new tooling or pattern for other developers to use Fluence
-
-Examples in the category include
-
-* Use Fluence to build a highly performant, decentralized network explorer. Such a solution, for example, could use an IPFS-based store capability to serve as a hot cache and Fluence to dynamically create network slices requested by users
-* Port a Web3 library to Wasm IT and deploy to the Fluence network. We are especially psyched about libraries directly or indirectly supporting EVM interaction or providing middleware services to the EVM or other Web3 protocols
-* Port or implement a signature signing and verification service as Wasm IT modules for Ethereum, e.g., eth_sign and sign typed data, and compatible EVM ecosystems.
-* Implement and deploy Wasm IT modules to create, manage or verify Decentralized Identity (DID) or Verifiable Credentials (VC) documents and associated linked data. An implementation using BBS+ would score a lot of points
-
-### USD 1,000 Best use of Fluence with another event sponsor
-
-In this category, considerations are given to the use of Fluence with any one (or more) of the event co-sponsors.
+* Write a tutorial on a use case of your choosing on how to use Decentralized Identities (DID) or Verifiable Credentials (VC)w ith Fluence and Aqua from the issuer, holder and/or verifier perspectives.  The tutorial should be ready for Medium publication and the associated code should be provided in a Github or Gitlab repo with MIT/Apache 2.0 license. For example, you could use Fluence to create a distributed and decentralized verifier for Verifiable Credentials.
 
 ## Resources
 
