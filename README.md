@@ -16,7 +16,7 @@ Fluence provides named prizes of USD 500 each for up to three best and unique su
 
 * Write a tutorial on a use case of your choosing on how to use Decentralized Identities (DID) or Verifiable Credentials (VC)w ith Fluence and Aqua from the issuer, holder and/or verifier perspectives.  The tutorial should be ready for Medium publication and the associated code should be provided in a Github or Gitlab repo with MIT/Apache 2.0 license. For example, you could use Fluence to create a distributed and decentralized verifier for Verifiable Credentials.
 
-and USD 2,0000 USD for the best use of Fluence compute for your dApp. Examples in this category include
+and USD 2,000 USD for the best use of Fluence compute for your dApp. Examples in this category include
 
 * Use Fluence to power a decentralized NFT creation and storage solution using, for examples, NFT.storage. We are especially excited about using Fluence compute to dynamically update the metadata of mutable NFTs.
 * Use Fluence to create a multi source DEX price oracle. We see Fluence compute at the "decenter" of querying and processing of streams to facilitate the optimal computation of buy/sell orders and routing to DExs.
