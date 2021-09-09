@@ -8,21 +8,21 @@ Fluence provides the infrastructure and tools to enable decentralized compute fo
 
 ## The Prizes
 
-### Beginner Bounty -- USD 250 x 10:
-Extend the Fluence Quickstart, https://github.com/fluencelabs/examples/tree/main/quickstart/3-browser-to-service, with a distributed character count service deployed to at least one Fluence peer. Display a message's character count at the end of the message, e.g., (char count: 123 chars). Document your solution and submit it via a Github or Gitlab repo with MIT or Apache 2.0 license.
+### Beginner Bounty -- USD 250 x the first 10 people:
+Extend the Fluence Quickstart, https://github.com/fluencelabs/examples/tree/main/quickstart/3-browser-to-service, with a distributed character count service deployed to at least one Fluence peer. Display a message's character count at the end of the message, e.g., (char count: 123 chars). Document your solution and submit it via a Github or GitLab repo with MIT or Apache 2.0 license.
 
 ### Intermediate Bounties -- USD 2,500 each:
-* Build a performant explorer for the Fluence network with Fluence services, Aqua-based composition, IPFS (hot/cache) storage and a Web-framework of your choice. The explorer should allow users to query the network at least by service id and  blueprint id by peer. A graphical and even animated representation of the network would definitely score extra points. For info concerning the current explorer see https://github.com/fluencelabs/dashboard. Document your solution and provide a max three (3) minute video presenting and demonstration your solutions and submit via a Github or Gitlab repo with MIT or Apache 2.0 license.
-* Port or implement an Ethereum signature signing and verification service as Wasm IT modules  and provide Aqua  workflows at least for sign and verify functionalities. For inspiration, see for example https://crates.io/crates/ethereum-tx-sign or https://crates.io/crates/ethsign. Document your solution and provide a max three (3) minute video presenting and demonstration your solutions and submit via a Github or Gitlab repo with MIT or Apache 2.0 license.
-* Implement and deploy Wasm IT modules to create, manage or verify Decentralized Identity (DID) or Verifiable Credentials (VC) documents and associated linked data. An implementation using BBS+, see https://w3c-ccg.github.io/ldp-bbs2020/, would score a lot of goodwill. Document your solution and provide a max three (3) minute video presenting and demonstration your solutions and submit via a Github or Gitlab repo with MIT or Apache 2.0 license.
-* Create a Ceramix, https://ceramic.network/, Wasm IT adapter with Marine that provides bindings for both the complete CLI, https://developers.ceramic.network/build/cli/api/, and HTTP, https://developers.ceramic.network/build/http/api/,  APIs. Provide Aqua workflows for at least the 'create', 'update' and 'query` methods. Document your solution and provide a max three (3) minute video presenting and demonstration your solutions and submit via a Github or Gitlab repo with MIT or Apache 2.0 license.
+* Build a performant explorer for the Fluence network with Fluence services, Aqua-based composition, IPFS (hot/cache) storage and a Web-framework of your choice. The explorer should allow users to query the network at least by service id and  blueprint id by peer. A graphical and even animated representation of the network would definitely score extra points. For info concerning the current explorer see https://github.com/fluencelabs/dashboard. Document your solution and provide a max three (3) minute video presenting and demonstration your solutions and submit via a Github or GitLab repo with MIT or Apache 2.0 license.
+* Port or implement an Ethereum signature signing and verification service as Wasm IT modules  and provide Aqua  workflows at least for sign and verify functionalities. For inspiration, see for example https://crates.io/crates/ethereum-tx-sign or https://crates.io/crates/ethsign. Document your solution and provide a max three (3) minute video presenting and demonstration your solutions and submit via a Github or GitLab repo with MIT or Apache 2.0 license.
+* Implement and deploy Wasm IT modules to create, manage or verify Decentralized Identity (DID) or Verifiable Credentials (VC) documents and associated linked data. An implementation using BBS+, see https://w3c-ccg.github.io/ldp-bbs2020/, would score a lot of goodwill. Document your solution and provide a max three (3) minute video presenting and demonstration your solutions and submit via a Github or GitLab repo with MIT or Apache 2.0 license.
+* Create a Ceramix, https://ceramic.network/, Wasm IT adapter with Marine that provides bindings for both the complete CLI, https://developers.ceramic.network/build/cli/api/, and HTTP, https://developers.ceramic.network/build/http/api/,  APIs. Provide Aqua workflows for at least the 'create', 'update' and 'query` methods. Document your solution and provide a max three (3) minute video presenting and demonstration your solutions and submit via a Github or GitLab repo with MIT or Apache 2.0 license.
 
 ### Advanced Bounty -- USD 5000:
 Implement an Aqua "playground", i.e. a browser-based development and execution environment for Aqua scripts.
 The minimum acceptable submission should provide the following features and run on at least one of Firefox or Chrome:
 * Syntax highlighting
 * All examples listed in Aqua examples (see below) need to run
-* Document your solution and provide a max five (5) minute video presenting and demonstration your solutions and submit via a Github or Gitlab repo with MIT or Apache 2.0 license.
+* Document your solution and provide a max five (5) minute video presenting and demonstration your solutions and submit via a Github or GitLab repo with MIT or Apache 2.0 license.
 
 Have a look at the following resources:
 * Aqua JS compiler: https://github.com/fluencelabs/aqua
@@ -38,7 +38,7 @@ Examples in this category include:
 * Use Fluence to create a multi source DEX price oracle. We see Fluence compute at the "decenter" of querying and processing of streams to facilitate the optimal computation of buy/sell orders and routing to DExs.
 * Use Fluence to capture, process and index events across multiple EVMs, e.g., Ethereum L1 and L2, for a (common) contract and store the results on Ceramic or Textile. Not unlike optimal order processing and routing, we see a need for a decentralized compute solution to make real-time transaction routing decisions for a contract available, or to be made available, across multiple EVM implementations.
 
-Document the use of Fluence in your DApp and provide a max three (3) minute video presenting and demonstration your solutions and submit via a Github or Gitlab repo with MIT or Apache 2.0 license.
+Document the use of Fluence in your DApp and provide a max three (3) minute video presenting and demonstration your solutions and submit via a Github or GitLab repo with MIT or Apache 2.0 license.
 
 
 Happy Hacking and Good Luck!
@@ -48,7 +48,7 @@ Happy Hacking and Good Luck!
 * [Fluence documentation](https://doc.fluence.dev/docs/)
 * [Aqua book](https://doc.fluence.dev/aqua-book/)
 * [Fluence Devcontainer](https://github.com/fluencelabs/devcontainer)
-* [Fluence IPFS Apapter](https://github.com/fluencelabs/aqua-ipfs)
+* [Fluence IPFS Adapter](https://github.com/fluencelabs/aqua-ipfs)
 * [Discord](https://fluence.chat)
 * [Fluence Youtube channel](https://www.youtube.com/channel/UC3b5eFyKRFlEMwSJ1BTjpbw)
 * [Book A Meeting With The Team](https://calendly.com/fluencehack/)
